@@ -6,6 +6,14 @@
     font-family: 'Mulish', sans-serif;
     padding-bottom: 10px;
     text-align: center;
+    border-color: aquamarine;
+    background-color: pink;
+    border-radius: 50px;
+
+}
+
+.img-header{
+    width: 45px;
 }
 .descripcion{
     text-align: center;
@@ -98,6 +106,7 @@ hr{
     padding: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr;
+   
 }
 .footer-uno{
     background-color: #F9D7E5;
